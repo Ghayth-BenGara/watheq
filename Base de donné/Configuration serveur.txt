@@ -1,0 +1,6 @@
+Change all denied with all granted to let the device access to server(httpd-xampp.config)
+Set memory_limit = 1024M(php.ini)
+Set upload_max_filesize = 1024M(php.ini)
+Set post_max_size = 1024M(php.ini)
+Set max_execution_time = 6000(php.ini)
+Set max_allowed_packet = 1024M(my.ini)
